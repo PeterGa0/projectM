@@ -1,8 +1,7 @@
 <template>
     <div>
         <header></header>
-        <app-login></app-login>
-        <app-register></app-register>
+        看看根组件能否渲染到页面上
         <footer></footer>
     </div>
 </template>
